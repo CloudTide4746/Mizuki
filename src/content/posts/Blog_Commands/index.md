@@ -1,6 +1,6 @@
 ---
 title: 博客更新指令
-published: 2025/09/02
+published: 2025-09-02
 description: ""
 image: ""
 tags: ["Mizuki", "Blogging", "Customization"]
