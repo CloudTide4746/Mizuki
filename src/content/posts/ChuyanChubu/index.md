@@ -4,7 +4,7 @@ published: 2025-10-13
 description: ""
 image: ""
 tags: ["Mizuki", "Blogging", "Customization"]
-category: 
+category: ChuyanChubu
 draft: false
 ---
 
