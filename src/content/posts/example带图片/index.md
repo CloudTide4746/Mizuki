@@ -1,5 +1,5 @@
 ---
-title: 博客更新指令
+title: 雏雁计划所用到的Qt Quick项目阶段性总结
 published: 2025-10-13
 description: ""
 image: ""
