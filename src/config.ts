@@ -164,19 +164,19 @@ export const navBarConfig: NavBarConfig = {
 			children: [
 				{
 					name: "GitHub",
-					url: "https://github.com/matsuzaka-yuki/Mizuki",
+					url: "https://github.com/CloudTide4746",
 					external: true,
 					icon: "fa6-brands:github",
 				},
 				{
 					name: "Bilibili",
-					url: "https://space.bilibili.com/701864046",
+					url: "https://space.bilibili.com/476878530",
 					external: true,
 					icon: "fa6-brands:bilibili",
 				},
 				{
 					name: "Gitee",
-					url: "https://gitee.com/matsuzakayuki/Mizuki",
+					url: "https://github.com/CloudTide4746",
 					external: true,
 					icon: "mdi:git",
 				},
@@ -235,17 +235,17 @@ export const profileConfig: ProfileConfig = {
 		{
 			name: "Bilibli",
 			icon: "fa6-brands:bilibili",
-			url: "https://space.bilibili.com/701864046",
+			url: "https://space.bilibili.com/476878530",
 		},
 		{
 			name: "Gitee",
 			icon: "mdi:git",
-			url: "https://gitee.com/matsuzakayuki",
+			url: "https://github.com/CloudTide4746",
 		},
 		{
 			name: "GitHub",
 			icon: "fa6-brands:github",
-			url: "https://github.com/matsuzaka-yuki",
+			url: "https://github.com/CloudTide4746",
 		},
 	],
 	// Umami统计部份，记得在layout插入Umami的head标签
@@ -277,7 +277,7 @@ export const commentConfig: CommentConfig = {
 
 export const announcementConfig: AnnouncementConfig = {
 	title: "公告", // 公告标题
-	content: "欢迎来到我的博客！这是一个示例公告。", // 公告内容
+	content: "欢迎来到我的博客！", // 公告内容
 	closable: true, // 允许用户关闭公告
 	link: {
 		enable: true, // 启用链接
